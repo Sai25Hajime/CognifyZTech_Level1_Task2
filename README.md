@@ -6,7 +6,9 @@ Basic Statistics and Distribution
 𝐓𝐚𝐬𝐤:
 
 🔍 Perform descriptive analysis on the dataset by calculating key statistical measures like mean, median, mode, and standard deviation for numerical columns.
+
  📊 Analyze the distribution of categorical variables like "Country Code," "City," and "Cuisines."
+ 
  🍽️ Identify the top cuisines and cities with the highest number of restaurants.
 
 # 𝑾𝒉𝒂𝒕 𝑰 𝑫𝒊𝒅:
